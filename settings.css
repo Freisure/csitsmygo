@@ -195,6 +195,20 @@ footer {
     height: 100px;
 }
 
+.area15 {
+    top: 0%;
+    right: 0%;
+    width: 60px;
+    height: 30px;
+}
+
+.area16 {
+    bottom: 70%;
+    left: 0%;
+    width: 30px;
+    height: 60px;
+}
+
 /* 确保内容在可点击区域之上 */
 .container {
     position: relative;
